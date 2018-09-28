@@ -1,5 +1,5 @@
 # react-the-venue
-A hotsite created for a fictional music event
+A hotsite created for a fictional musical event
 
 [Demo on surge.sh](https://venue.surge.sh)
 
