@@ -17,4 +17,5 @@ Create a fictional hotsite to fix the knowledge acquired in:
 - React
 - React-reveal
 - React-scroll
+- React-slick
 - MaterialUI
